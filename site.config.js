@@ -9,7 +9,7 @@ export default {
   // basic site info (required)
   name: 'wuweixiang',
   domain: 'wuweixiang.xyz',
-//   author: 'wuweixiang',
+  author: 'wuweixiang',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
